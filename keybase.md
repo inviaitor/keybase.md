@@ -8,24 +8,34 @@ I hereby claim:
 
 To claim this, I am signing this object:
 
+### Keybase proof
+
+I hereby claim:
+
+  * I am inviaitor on github.
+  * I am inviaitor (https://keybase.io/inviaitor) on keybase.
+  * I have a public key ASB0U1QVby5QcWyWNSXODhK8pdjRp0yu3Q1DM8Wg6e4jVwo
+
+To claim this, I am signing this object:
+
 ```json
 {
   "body": {
     "key": {
       "eldest_kid": "0120cac6c2af32bcb6873a2bb72db7e37295b08957537670e25ff0c0588db4a16b500a",
       "host": "keybase.io",
-      "kid": "0120cac6c2af32bcb6873a2bb72db7e37295b08957537670e25ff0c0588db4a16b500a",
+      "kid": "0120745354156f2e50716c963525ce0e12bca5d8d1a74caedd0d4333c5a0e9ee23570a",
       "uid": "e211739596595bff9f4446e8299f3c19",
       "username": "inviaitor"
     },
     "merkle_root": {
-      "ctime": 1568332788,
-      "hash": "8710229131e81222d3c4004ab3217e2d67517ad52436b2454d3b7daba2348dac83ea32e5df6ab5c75c542adc8395688ee482b20e9a8adc03fa76797b9d6ebcdb",
-      "hash_meta": "ad8c9f53bee4eee3b05ccc63297f065333e94825f4c26532000ed68daf8f579a",
-      "seqno": 7064047
+      "ctime": 1571646569,
+      "hash": "77f5859142a86fccb1499e0bd9f3c689cf15f5186996efca0a71dee22c79aa2bbce7462dc6adedb8028960a368701d07d1a0fb76af300cf7c6e42e379ceecfef",
+      "hash_meta": "6e479db7694b86f76c47072ea2c658dc9a2b9efd0b6c0401c216b41a69bec941",
+      "seqno": 8279989
     },
     "service": {
-      "entropy": "dqcCWGfwz2nVWA/E/vjVdiFo",
+      "entropy": "c6ib7sTe0GT5jd6pg2MkrSVs",
       "name": "github",
       "username": "inviaitor"
     },
@@ -34,20 +44,20 @@ To claim this, I am signing this object:
   },
   "client": {
     "name": "keybase.io go client",
-    "version": "4.4.0"
+    "version": "4.6.0"
   },
-  "ctime": 1568332791,
+  "ctime": 1571646588,
   "expire_in": 504576000,
-  "prev": "107ec7e6bbbf48a57226e191a5d100c82944a212117ae8f8f82f7bdeef2e3b9f",
-  "seqno": 9,
+  "prev": "d18f45da54068a697ad64bd1fa901fddb00c72f6832095e51eefc6e6b535f040",
+  "seqno": 21,
   "tag": "signature"
 }
 ```
 
-with the key [ASDKxsKvMry2hzorty2343KVsIlXU3Zw4l_wwFiNtKFrUAo](https://keybase.io/inviaitor), yielding the signature:
+with the key [ASB0U1QVby5QcWyWNSXODhK8pdjRp0yu3Q1DM8Wg6e4jVwo](https://keybase.io/inviaitor), yielding the signature:
 
 ```
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgysbCrzK8toc6K7ctt+NylbCJV1N2cOJf8MBYjbSha1AKp3BheWxvYWTESpcCCcQgEH7H5ru/SKVyJuGRpdEAyClEohIReuj4+C973u8uO5/EIMlqXiZtHI5IgBWwPTFMMoVXI+ZgSQezEyy7mg8YUyRaAgHCo3NpZ8RATAMxa+4core/mPWTRxGFCAg5ItwINtnXCRGcKMLIqARuEqNy3fUssmyNTVKmqen+CyeJwyMU08DjFXUvX1VtA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHQ98vk7DTYQYkXuMTq5MzKRV60zWp/aegvCjHluwgpIo3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgdFNUFW8uUHFsljUlzg4SvKXY0adMrt0NQzPFoOnuI1cKp3BheWxvYWTESpcCFcQg0Y9F2lQGiml61kvR+pAf3bAMcvaDIJXlHu/G5rU18EDEIM1k6sGPSaV9ZaBvo5POXGKwIi6NAy5+avI+o1exgzCUAgHCo3NpZ8RAvpAtQM7pE04CKyIySiURXoTbR3OvcyrNikqiX5NBVQvs19bANOXTq75lC3tb5tHtpPdOIhRDi9j50gtMscJbAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPL1z0rmnfVrg5ppjLA85KeCVsWy5o8iycbjirRIqYn8o3RhZ80CAqd2ZXJzaW9uAQ==
 
 ```
 
